@@ -2,7 +2,7 @@
 Writing &amp; Recode
 
 ------
-* [github](https://github.com/)
-* [gitbook](https://www.gitbook.com/)
-* [知乎](https://www.zhihu.com/)
-* [博客园](https://www.cnblogs.com/)
+* [github](https://github.com/changxianglin)
+* [gitbook](https://www.gitbook.com/@changxianglin)
+* [知乎](https://www.zhihu.com/people/zhang-xiang-lin-52/activities)
+* [博客园](http://www.cnblogs.com/zhourongcode/)
